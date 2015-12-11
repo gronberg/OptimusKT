@@ -1,0 +1,13 @@
+{
+  "name": "hubot",
+  "version": "0.0.0",
+  "private": true,
+  "author": "John Gronberg <john@keeptruckin.com>",
+  "description": "A simple helpful robot for your Company",
+  "dependencies": {
+    "hubot-slack": "^3.4.2"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
