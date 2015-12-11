@@ -8,5 +8,6 @@
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
+  "hubot-business-cat",
   "hubot-shipit"
 ]
